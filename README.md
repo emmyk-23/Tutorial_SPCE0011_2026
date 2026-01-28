@@ -1,4 +1,4 @@
-# Tutorial Session for SPCE 2024/2025: Exploring Solar Spectrum
+# Tutorial Session for SPCE0011 2024/2025: Exploring Solar Spectrum
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JulioHC00/Tutorial_SPCE0011_2025/)
 
 ![image](https://github.com/nawinnova/Tutorial_SPCE2024/assets/40351889/1111ed5c-dbec-48fb-ad86-76000df03242)
