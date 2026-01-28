@@ -1,10 +1,10 @@
-# Tutorial Session for SPCE 2024/2025: Exploring Solar Spectrum
+# Tutorial Session for SPCE 2025/2026: Exploring Solar Spectrum
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JulioHC00/Tutorial_SPCE0011_2025/)
 
 ![image](https://github.com/nawinnova/Tutorial_SPCE2024/assets/40351889/1111ed5c-dbec-48fb-ad86-76000df03242)
 
 
-This repository hosts data and code for the Solar Physics Course tutorial sessions at UCL, Academic Year 2024/2025. 
+This repository hosts data and code for the Solar Physics Course tutorial sessions at UCL, Academic Year 2025/2026. 
 Specifically aims to help students better understand the concept of spectroscopy and how we scientists can use this technique to
 gain insights about the solar corona.
 
