@@ -1,7 +1,7 @@
 # Tutorial Session for SPCE0011 2025/2026: Imaging the Solar Surface
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emmyk-23/Tutorial_SPCE0011_2026/)
 
-![image](https://github.com/nawinnova/Tutorial_SPCE2024/assets/40351889/1111ed5c-dbec-48fb-ad86-76000df03242)
+![image](spacecraft_detailed.jpg)
 
 
 This repository hosts data and code for the Solar Physics Course tutorial sessions at UCL, Academic Year 2025/2026. 
