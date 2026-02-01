@@ -1,5 +1,5 @@
 # Tutorial Session for SPCE0011 2025/2026: Imaging the Solar Surface
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/DanRyanIrish/Tutorial_SPCE0011_2026/blob/lower_atmosphere/lower_atmosphere_active_region](https://colab.research.google.com/github/DanRyanIrish/Tutorial_SPCE0011_2026/blob/lower_atmosphere/lower_atmosphere_active_region/Lower_atmosphere_AR_features.ipynb))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanRyanIrish/Tutorial_SPCE0011_2026/blob/lower_atmosphere/lower_atmosphere_active_region/Lower_atmosphere_AR_features.ipynb)
 
 ![image](spacecraft_detailed.jpg)
 
