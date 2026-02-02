@@ -1,5 +1,5 @@
 # Tutorial Session for SPCE0011 2025/2026: Imaging the Solar Surface
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emmyk-23/Tutorial_SPCE0011_2026/blob/main/Lower_atmosphere_AR_features_filled.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emmyk-23/Tutorial_SPCE0011_2026/blob/main/Lower_atmosphere_AR_features.ipynb)
 
 ![image](spacecraft_detailed.jpg)
 
